@@ -1,4 +1,4 @@
 ## Repositories
 
-- [DWEC](/DWEC)
-- [DIW](/DIW)
+- [DWEC](acbeldeandaw.github.io/DWEC)
+- [DIW](acbeldeandaw.github.io/DIW)
