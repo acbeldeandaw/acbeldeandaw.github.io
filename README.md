@@ -1,3 +1,2 @@
 ## Repositories
-- [DWEC](DWEC)
-- [DIW](DIW)
+- [DWEC-DIW](DWEC-DIW)
